@@ -1,3 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  
+  <!-- Google Verification Meta Tag -->
+  <meta name="google-site-verification" content="yY9LKAuJaWWM9_m9AVB5BlkJDIeujAqp2mGolTbSq1Y" />
+  
+  <title>Your Site Title</title>
+</head>
+<body>
+  <!-- Your website content here -->
+</body>
+</html>
 <head>
     <meta charset="UTF-8">
     জনাব নুরুল ইসলাম মৃধা | চাঁদপুর | Biography
