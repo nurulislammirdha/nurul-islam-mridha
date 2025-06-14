@@ -1,2 +1,112 @@
-# nurul-islam-mridha
-A tribute site for Nurul Islam Mridha, a respected social thinker and political leader from Chandpur, Bangladesh.
+<!DOCTYPE html>
+<html lang="bn">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>জনাব নুরুল ইসলাম মৃধা - Biography</title>
+  <style>
+    body {
+      font-family: "Segoe UI", sans-serif;
+      margin: 0;
+      padding: 0;
+      background: #f2f2f2;
+      color: #222;
+    }
+    header {
+      background: #004466;
+      color: white;
+      padding: 1.5rem 1rem;
+      text-align: center;
+    }
+    section {
+      padding: 2rem;
+      max-width: 960px;
+      margin: auto;
+      background: white;
+      margin-top: 1.5rem;
+      border-radius: 10px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+    h2 {
+      color: #003355;
+    }
+    hr {
+      border: 0;
+      height: 1px;
+      background: #ddd;
+      margin: 2rem 0;
+    }
+    footer {
+      text-align: center;
+      padding: 1rem;
+      background: #004466;
+      color: white;
+      margin-top: 2rem;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>জনাব নুরুল ইসলাম মৃধা</h1>
+  <p>একজন সৎ, প্রজ্ঞাবান সমাজদর্শী ও নির্ভীক সংগঠক</p>
+</header>
+
+<section>
+  <h2>📜 বাংলা জীবনী</h2>
+  <p>জনাব নুরুল ইসলাম মৃধা (১৯৪৩–বর্তমান) একজন সৎ, প্রজ্ঞাবান সমাজদর্শী ও নির্ভীক সংগঠক। ১৯৪৩ সালের ২রা জুন, চাঁদপুর জেলার ফরিদগঞ্জ উপজেলার পশ্চিম লাড়ুয়া গ্রামের এক ঐতিহ্যবাহী মুসলিম পরিবারে জন্মগ্রহণ করেন।...</p>
+
+  <h3>📚 শিক্ষাজীবনের শুরু</h3>
+  <p>তিনি রামপুর আলিয়া মাদ্রাসা থেকে শিক্ষা শুরু করেন এবং ১৯৭২ সালে রামপুর হাই স্কুল থেকে এসএসসি পাস করেন।</p>
+
+  <h3>👣 জীবনের কর্মপর্ব</h3>
+  <p>স্বাধীনতা-পূর্ব সময়ে বাবার ব্যবসায় সহযোগিতা করেই কর্মজীবনের সূচনা করেন। পরে চাঁদপুর শহরে স্থায়ী হয়ে রাজনৈতিক ও সামাজিক নেতৃত্বে জড়িত হন।</p>
+
+  <h3>🏛️ রাজনীতিতে পথচলা</h3>
+  <p>তিনি ছিলেন জাগদল-এর চাঁদপুর থানার প্রতিষ্ঠাতা আহ্বায়ক এবং পরে বিএনপির বিভিন্ন গুরুত্বপূর্ণ পদে দায়িত্ব পালন করেন।</p>
+
+  <h3>👥 সামাজিক অঙ্গনে অবদান</h3>
+  <p>চাঁদপুর এপেক্স ক্লাব, রেডক্রিসেন্ট, মোহামেডান ক্লাবসহ নানা সংগঠনে গুরুত্বপূর্ণ ভূমিকা পালন করেছেন।</p>
+
+  <h3>🏢 ব্যবসায়ী পরিচিতি</h3>
+  <p>“নুর ম্যানশন” নামক বাণিজ্যিক কেন্দ্রের প্রতিষ্ঠাতা হিসেবে চাঁদপুরে একটি সুপরিচিত নাম।</p>
+
+  <h3>👨‍👩‍👧‍👦 পারিবারিক জীবন</h3>
+  <p>তিনি তিন কন্যা ও তিন পুত্র সন্তানের জনক এবং একজন শান্তিপূর্ণ পারিবারিক মানুষ।</p>
+
+  <h3>🔹 উপসংহার</h3>
+  <p>তাঁর জীবন চাঁদপুর জেলার ইতিহাসের একটি প্রতিচ্ছবি। সততা ও সমাজসেবায় তাঁর দৃষ্টান্ত আজও প্রেরণা জোগায়।</p>
+</section>
+
+<section>
+  <h2>🌐 English Biography</h2>
+  <p><strong>Mr. Nurul Islam Mridha (1943–Present)</strong> is an honest, wise social thinker and courageous organizer. Born on June 2, 1943, in Paschim Laruya village of Faridganj Upazila, Chandpur District, he was raised in a spiritual and service-oriented family environment...</p>
+
+  <h3>📚 Beginning of Education</h3>
+  <p>He began his education at Rampur Alia Madrasa and passed SSC from Rampur High School in 1972.</p>
+
+  <h3>👣 Professional Journey</h3>
+  <p>Initially joined his father’s business, then dedicated himself to public service after independence.</p>
+
+  <h3>🏛️ Political Career</h3>
+  <p>Founding convener of Jagodal in Chandpur, later became a key figure in BNP holding various positions including Vice President of the District BNP.</p>
+
+  <h3>👥 Contributions to Society</h3>
+  <p>Served as President of Apex Club, Governor of Apex District-3, and lifelong member of several civic institutions.</p>
+
+  <h3>🏢 Business Identity</h3>
+  <p>Founder of “Nur Mansion,” a prominent commercial hub in Chandpur.</p>
+
+  <h3>👨‍👩‍👧‍👦 Family Life</h3>
+  <p>Father of three daughters and three sons; known for being calm and principled.</p>
+
+  <h3>🔹 Conclusion</h3>
+  <p>Mr. Mridha’s life story is a part of Chandpur’s living history, inspiring many through his dedication and integrity.</p>
+</section>
+
+<footer>
+  &copy; 2025 Nurul Islam Mridha Family. Designed for GitHub Pages.
+</footer>
+
+</body>
+</html>
