@@ -2,7 +2,7 @@
     <meta charset="UTF-8">
     <title>জনাব নুরুল ইসলাম মৃধা | Chandpur Biography</title>
     <meta name="description" content="চাঁদপুরের একজন সৎ ও নির্ভীক সমাজদর্শী ও রাজনীতিক জনাব নুরুল ইসলাম মৃধার জীবনী।">
-    <meta name="keywords" content="Nurul Islam Mridha, Chandpur, রাজনীতি, জীবনী, মুক্তিযোদ্ধা, BNP, Jagodal">
+    <meta name="keywords" content="Nurul Islam Mridha, Chandpur, রাজনীতি, জীবনী,Nur Mansion, Apex Club, BNP,Chandpur, Jagodal">
     <meta name="author" content="asmshayam">
     <meta name="robots" content="index, follow">
 </head>
