@@ -24,7 +24,6 @@
 <img src="Nurul Islam Mridha.jpeg" alt="Nurul Islam Mridha">
   <h1>জনাব নুরুল ইসলাম মৃধা</h1>
   <p>একজন সৎ, প্রজ্ঞাবান সমাজদর্শী ও নির্ভীক সংগঠক</p>
-</header>
 
 <section>
   <h2>📜 বাংলা জীবনী</h2>
@@ -120,6 +119,3 @@
 <footer>
   &copy; JUNE,2025 
 </footer>
-
-</body>
-</html>
