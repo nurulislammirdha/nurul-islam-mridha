@@ -1,4 +1,4 @@
-<img src="Nurul-Islam-Mridha(1).jpeg" alt="Nurul Islam Mridha">
+<img src="Nurul-Islam-Mridha.jpeg" alt="Nurul Islam Mridha">
   <title>জনাব নুরুল ইসলাম মৃধা - Biography</title>
   <style>
     body {
