@@ -1,49 +1,7 @@
 <img src="Nurul Islam Mridha.jpeg" alt="Nurul Islam Mridha">
   <title>জনাব নুরুল ইসলাম মৃধা - Biography</title>
   <style>
-    body {
-      font-family: "Segoe UI", sans-serif;
-      margin: 0;
-      padding: 0;
-      background: #f2f2f2;
-      color: #222;
-    }
-    header {
-      background: #004466;
-      color: white;
-      padding: 1.5rem 1rem;
-      text-align: center;
-    }
-    section {
-      padding: 2rem;
-      max-width: 960px;
-      margin: auto;
-      background: white;
-      margin-top: 1.5rem;
-      border-radius: 10px;
-      box-shadow: 0 0 10px rgba(0,0,0,0.1);
-    }
-    h2 {
-      color: #003355;
-    }
-    hr {
-      border: 0;
-      height: 1px;
-      background: #ddd;
-      margin: 2rem 0;
-    }
-    footer {
-      text-align: center;
-      padding: 1rem;
-      background: #004466;
-      color: white;
-      margin-top: 2rem;
-    }
-  </style>
-</head>
-<body>
 
-<header>
   <h1>জনাব নুরুল ইসলাম মৃধা</h1>
   <p>একজন সৎ, প্রজ্ঞাবান সমাজদর্শী ও নির্ভীক সংগঠক</p>
 </header>
