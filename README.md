@@ -84,7 +84,7 @@
 </section>
 
 <footer>
-  &copy; 2025 Nurul Islam Mridha Family. Designed for GitHub Pages.
+  &copy; JUNE,2025 
 </footer>
 
 </body>
