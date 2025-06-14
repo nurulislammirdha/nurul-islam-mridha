@@ -14,8 +14,7 @@
 <section>
   <h2>📜 বাংলা জীবনী</h2>
   <p>জনাব নুরুল ইসলাম মৃধা (১৯৪৩–বর্তমান) একজন সৎ, প্রজ্ঞাবান সমাজদর্শী ও নির্ভীক সংগঠক  ১৯৪৩ সালের ২রা জুন, চাঁদপুর জেলার ফরিদগঞ্জ উপজেলার পশ্চিম লাড়ুয়া গ্রামের এক ঐতিহ্যবাহী মুসলিম পরিবারে জন্মগ্রহণ করেন জনাব নুরুল ইসলাম 
-     মৃধা। তাঁর পিতা, আলহাজ্ব আব্দুল গনি মৃধা, ছিলেন ফরিদগঞ্জ উপজেলার একজন সুপরিচিত ব্যবসায়ী ও শ্রদ্ধাভাজন সমাজসেবক। নিজের সততা, উদারতা ও জনহিতৈষী মনোভাবের জন্য তিনি স্থানীয় জনগণের আস্থার প্রতীক ছিলেন। 
-      
+     মৃধা। তাঁর পিতা, আলহাজ্ব আব্দুল গনি মৃধা, ছিলেন ফরিদগঞ্জ উপজেলার একজন সুপরিচিত ব্যবসায়ী ও শ্রদ্ধাভাজন সমাজসেবক। নিজের সততা, উদারতা ও জনহিতৈষী মনোভাবের জন্য তিনি স্থানীয় জনগণের আস্থার প্রতীক ছিলেন।   
     উপমহাদেশের প্রখ্যাত জৌনপুরের পীর সাহেবগণ যখন এই অঞ্চলে সফরে আসতেন, তখন তাঁদের সফরের সময় তাঁরা যে স্থানটিকে সাময়িক আশ্রয়ের জন্য বেছে নিতেন, সেটি ছিল মৃধা বাড়ির সম্মুখ প্রাঙ্গণ। এই পরম্পরা আজও সম্মানের সঙ্গে রক্ষিত 
     আছে। এমন এক আধ্যাত্মিক ও মানবিক পরিবেশেই বেড়ে উঠেছেন নুরুল ইসলাম মৃধা—যেখানে সততা, দায়িত্ববোধ ও সমাজসেবার চেতনা শৈশব থেকেই রক্তে মিশে গেছে। এই মূল্যবোধই পরবর্তীতে তাঁকে গড়ে তুলেছে এক জননন্দিত সংগঠক ও সমাজদর্শী 
     হিসেবে।...</p>
@@ -35,8 +34,7 @@
       • জেলা বিএনপির কোষাধ্যক্ষ 
       • শহর বিএনপির সভাপতি 
       • জেলা বিএনপির সহ-সভাপতি 
-      • বর্তমানে: জেলা বিএনপির উপদেষ্টা মণ্ডলীর সদস্য  বিশেষ করে 
-      
+      • বর্তমানে: জেলা বিএনপির উপদেষ্টা মণ্ডলীর সদস্য  বিশেষ করে  
       ১৯৯০ সালের স্বৈরাচারবিরোধী আন্দোলনে তাঁর বলিষ্ঠ নেতৃত্ব এবং সাম্প্রদায়িক সম্প্রীতি রক্ষায় তাঁর অগ্রণী ভূমিকা তাঁকে সকল মহলে বিশেষ শ্রদ্ধায় অভিষিক্ত করেছে।</p>
 
   <h3>👥 সামাজিক অঙ্গনে অবদান</h3>
@@ -55,16 +53,14 @@
   <p> একজন সফল পিতা হিসেবে তিনি তিন কন্যা ও তিন পুত্র সন্তানের জনক। পরিবারিক জীবনে তিনি এক আদর্শবান ও শান্তিপূর্ণ ব্যক্তিত্ব হিসেবে পরিচিত।</p>
 
   <h3>🔹 উপসংহার</h3>
-  <p>জনাব নুরুল ইসলাম মৃধার জীবন কেবল একজন ব্যক্তির জীবনকথা নয়—এটি চাঁদপুর জেলার একটি সময়ের প্রতিচ্ছবি। তাঁর সততা, নিষ্ঠা ও নির্বিচারে কাজ করে যাওয়ার মনোভাব আজও অনেকের জন্য প্রেরণার উৎস।  
-      
+  <p>জনাব নুরুল ইসলাম মৃধার জীবন কেবল একজন ব্যক্তির জীবনকথা নয়—এটি চাঁদপুর জেলার একটি সময়ের প্রতিচ্ছবি। তাঁর সততা, নিষ্ঠা ও নির্বিচারে কাজ করে যাওয়ার মনোভাব আজও অনেকের জন্য প্রেরণার উৎস।     
      রাজনীতি হোক কিংবা সমাজসেবা— সবখানেই তিনি ছিলেন নির্লোভ, নির্ভীক এবং নীতিনিষ্ঠ।</p>
 </section>
 
 <section>
   <h2>🌐 English Biography</h2>
   <p><strong>Mr. Nurul Islam Mridha (1943–Present)</strong> An honest, wise social thinker and courageous organizer. BMr. Nurul Islam Mridha was born on June 2, 1943, in a respected Muslim family in Paschim 
-     Laruya village, Faridganj Upazila, Chandpur District. His father, Alhaj Abdul Gani Mridha, was a renowned businessman and social worker. His honesty and generosity earned him deep public trust.  
-      
+     Laruya village, Faridganj Upazila, Chandpur District. His father, Alhaj Abdul Gani Mridha, was a renowned businessman and social worker. His honesty and generosity earned him deep public trust.    
      When spiritual leaders from Jaunpur visited the region, they often chose the front yard of the Mridha family home as their resting place. This honorable tradition continues to this day.  Growing up in 
      such a spiritual and service-oriented environment, Mr. Mridha embraced honesty, responsibility, and dedication to social welfare—values that shaped his life....</p>
 
