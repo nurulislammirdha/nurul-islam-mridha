@@ -19,7 +19,7 @@
   </header>
 
   <section lang="bn">
-    <h2>📜 বাংলা জীবনী</h2>
+    <h2>📜 জীবনী</h2>
     <p>জনাব নুরুল ইসলাম মৃধা (১৯৪৩–বর্তমান) একজন সৎ, প্রজ্ঞাবান সমাজদর্শী ও নির্ভীক সংগঠক  ১৯৪৩ সালের ২রা জুন, চাঁদপুর জেলার ফরিদগঞ্জ উপজেলার পশ্চিম লাড়ুয়া গ্রামের এক ঐতিহ্যবাহী মুসলিম পরিবারে জন্মগ্রহণ করেন জনাব নুরুল ইসলাম 
      মৃধা। তাঁর পিতা, আলহাজ্ব আব্দুল গনি মৃধা, ছিলেন ফরিদগঞ্জ উপজেলার একজন সুপরিচিত ব্যবসায়ী ও শ্রদ্ধাভাজন সমাজসেবক। নিজের সততা, উদারতা ও জনহিতৈষী মনোভাবের জন্য তিনি স্থানীয় জনগণের আস্থার প্রতীক ছিলেন।   
     উপমহাদেশের প্রখ্যাত জৌনপুরের পীর সাহেবগণ যখন এই অঞ্চলে সফরে আসতেন, তখন তাঁদের সফরের সময় তাঁরা যে স্থানটিকে সাময়িক আশ্রয়ের জন্য বেছে নিতেন, সেটি ছিল মৃধা বাড়ির সম্মুখ প্রাঙ্গণ। এই পরম্পরা আজও সম্মানের সঙ্গে রক্ষিত 
@@ -65,7 +65,7 @@
   </section>
 
   <section lang="en">
-    <h2>🌐 English Biography</h2>
+    <h2>🌐 Biography</h2>
     <p><strong>Mr. Nurul Islam Mridha (1943–Present)</strong> An honest, wise social thinker and courageous organizer. BMr. Nurul Islam Mridha was born on June 2, 1943, in a respected Muslim family in Paschim 
      Laruya village, Faridganj Upazila, Chandpur District. His father, Alhaj Abdul Gani Mridha, was a renowned businessman and social worker. His honesty and generosity earned him deep public trust.    
      When spiritual leaders from Jaunpur visited the region, they often chose the front yard of the Mridha family home as their resting place. This honorable tradition continues to this day.  Growing up in 
