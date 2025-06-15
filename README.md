@@ -9,8 +9,6 @@
   <meta name="keywords" content="Nurul Islam Mridha, Chandpur, রাজনীতি, জীবনী, Nur Mansion, Apex Club, BNP, Chandpur, Jagodal">
   <meta name="author" content="asmshayam">
   <meta name="robots" content="index, follow">
-</head>
-
 <body>
   <h1>জনাব নুরুল ইসলাম মৃধা</h1>
   <img src="Nurul Islam Mridha.jpeg" alt="Nurul Islam Mridha">
