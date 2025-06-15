@@ -1,14 +1,14 @@
 <!DOCTYPE html>
 <html lang="bn">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta charset="UTF-8" >
+  <meta name="viewport" content="width=device-width, initial-scale=1" >
   <title>Nurul Islam Mridha - Chandpur - Biography</title>
-  <meta name="google-site-verification" content="yY9LKAuJaWWM9_m9AVB5BlkJDIeujAqp2mGolTbSq1Y" />
-  <meta name="description" content="চাঁদপুরের একজন সৎ ও নির্ভীক সমাজদর্শী ও রাজনীতিক জনাব নুরুল ইসলাম মৃধার জীবনী।" />
-  <meta name="keywords" content="Nurul Islam Mridha, Chandpur, রাজনীতি, জীবনী, Nur Mansion, Apex Club, BNP, Chandpur, Jagodal" />
-  <meta name="author" content="asmshayam" />
-  <meta name="robots" content="index, follow" />
+  <meta name="google-site-verification" content="yY9LKAuJaWWM9_m9AVB5BlkJDIeujAqp2mGolTbSq1Y" >
+  <meta name="description" content="চাঁদপুরের একজন সৎ ও নির্ভীক সমাজদর্শী ও রাজনীতিক জনাব নুরুল ইসলাম মৃধার জীবনী।" >
+  <meta name="keywords" content="Nurul Islam Mridha, Chandpur, রাজনীতি, জীবনী, Nur Mansion, Apex Club, BNP, Chandpur, Jagodal" >
+  <meta name="author" content="asmshayam" >
+  <meta name="robots" content="index, follow" >
 </head>
 <body>
 
