@@ -3,27 +3,19 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  
-  <!-- Google Verification Meta Tag -->
-  <meta name="google-site-verification" content="yY9LKAuJaWWM9_m9AVB5BlkJDIeujAqp2mGolTbSq1Y" /> 
-  <title>Your Site Title</title>
+  <title>Nurul Islam Mridha-Chandpur-Biography</title>
+<meta name="google-site-verification" content="yY9LKAuJaWWM9_m9AVB5BlkJDIeujAqp2mGolTbSq1Y" />
+  <meta name="description" content="চাঁদপুরের একজন সৎ ও নির্ভীক সমাজদর্শী ও রাজনীতিক জনাব নুরুল ইসলাম মৃধার জীবনী।">
+  <meta name="keywords" content="Nurul Islam Mridha, Chandpur, রাজনীতি, জীবনী, Nur Mansion, Apex Club, BNP, Chandpur, Jagodal">
+  <meta name="author" content="asmshayam">
+  <meta name="robots" content="index, follow">
 </head>
-<body>
-  <!-- Your website content here -->
-</body>
-</html>
-<head>
-    <meta charset="UTF-8">
-    জনাব নুরুল ইসলাম মৃধা | চাঁদপুর | Biography
-    <meta name="description" content="চাঁদপুরের একজন সৎ ও নির্ভীক সমাজদর্শী ও রাজনীতিক জনাব নুরুল ইসলাম মৃধার জীবনী।">
-    <meta name="keywords" content="Nurul Islam Mridha, Chandpur, রাজনীতি, জীবনী,Nur Mansion, Apex Club, BNP,Chandpur, Jagodal">
-    <meta name="author" content="asmshayam">
-    <meta name="robots" content="index, follow">
-</head>
-<img src="Nurul Islam Mridha.jpeg" alt="Nurul Islam Mridha">
-  <h1>জনাব নুরুল ইসলাম মৃধা</h1>
-  <p>একজন সৎ, প্রজ্ঞাবান সমাজদর্শী ও নির্ভীক সংগঠক</p>
 
+<body>
+  <h1>জনাব নুরুল ইসলাম মৃধা</h1>
+  <img src="Nurul Islam Mridha.jpeg" alt="Nurul Islam Mridha">
+  <p>চাঁদপুরের একজন সৎ, নির্ভীক রাজনীতিক ও সমাজসেবক জনাব নুরুল ইসলাম মৃধার জীবনী।</p>
+</body>
 <section>
   <h2>📜 বাংলা জীবনী</h2>
   <p>জনাব নুরুল ইসলাম মৃধা (১৯৪৩–বর্তমান) একজন সৎ, প্রজ্ঞাবান সমাজদর্শী ও নির্ভীক সংগঠক  ১৯৪৩ সালের ২রা জুন, চাঁদপুর জেলার ফরিদগঞ্জ উপজেলার পশ্চিম লাড়ুয়া গ্রামের এক ঐতিহ্যবাহী মুসলিম পরিবারে জন্মগ্রহণ করেন জনাব নুরুল ইসলাম 
