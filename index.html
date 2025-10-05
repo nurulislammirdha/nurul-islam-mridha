@@ -24,7 +24,7 @@
       display: none;
     }
     img {
-      width: 100%;
+      width: 50%;
       border-radius: 10px;
     }
     /* Next & previous buttons */
@@ -70,7 +70,6 @@
   </style>
 </head>
 <body>
-
 <h2> সামাজিক ও রাজনৈতিক কার্যক্রম (Slideshow)</h2>
 <div class="slideshow-container">
   <div class="mySlides">
@@ -123,15 +122,12 @@
 <script>
 let slideIndex = 1;
 showSlides(slideIndex);
-
 function plusSlides(n) {
   showSlides(slideIndex += n);
 }
-
 function currentSlide(n) {
   showSlides(slideIndex = n);
 }
-
 function showSlides(n) {
   let i;
   let slides = document.getElementsByClassName("mySlides");
@@ -147,14 +143,11 @@ function showSlides(n) {
   slides[slideIndex-1].style.display = "block";
   dots[slideIndex-1].className += " active";
 }
-
 // Auto slideshow
 setInterval(() => { plusSlides(1); }, 4000); // প্রতি ৪ সেকেন্ডে পরিবর্তন
 </script>
-
 </body>
 </html>
-
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description" content="জনাব নুরুল ইসলাম মৃধা, একজন সৎ ও নির্ভীক সমাজসংগঠক, চাঁদপুর জেলার রাজনৈতিক ও সামাজিক ব্যক্তিত্ব।">
@@ -270,6 +263,7 @@ setInterval(() => { plusSlides(1); }, 4000); // প্রতি ৪ সেকে
   </div>
 </body>
 </html>
+
 
 
 
